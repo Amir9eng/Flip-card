@@ -63,7 +63,7 @@ img{
   font-size: 1.5rem;
   margin-bottom: 1rem;
 }
-.activez .card-inner{
+.active .card-inner{
   transform: rotateX(180deg);
 }
 
